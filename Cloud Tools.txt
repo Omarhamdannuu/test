@@ -1,0 +1,20 @@
+cloud course links :
+
+
+https://googlecloudcheatsheet.withgoogle.com/           (cheatsheet)
+
+https://datacenters.microsoft.com/globe/explore
+
+service mapping                                       (to compare services between 2 differnet cloud providersv)
+
+https://www.azurespeed.com/Azure/Latency                 (to check the latencey for the region and wich one is faster)
+
+https://azure.microsoft.com/en-in/free/students/         (free account with 100$ with ur uni email)
+
+https://azure.microsoft.com/en-us/pricing/vm-selector/   (to select the propiat vm size)
+
+https://learn.microsoft.com/en-us/samples/browse/        (to get quick templates)
+
+https://azure.microsoft.com/en-us/pricing/tco/calculator/  (TCO calculator)
+
+https://uptime.is/                                      (calculate sla ) 
